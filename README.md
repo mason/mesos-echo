@@ -1,5 +1,5 @@
 # About
-A mesos framework that prints Hello World from the mesos slave instance to standard out
+A mesos framework that prints Hello World from the mesos slave instance to standard out.
 
 ## Compile Mesos
 http://mesos.apache.org/gettingstarted/
